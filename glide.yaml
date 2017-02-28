@@ -1,0 +1,3 @@
+package: github.com/sheenobu/fuzzkill
+import:
+- package: github.com/tncardoso/gocurses

@@ -1,0 +1,6 @@
+hash: d3bff36a39576efcc48c70d55b43b44f0572a5f097b214d311ac9a15d5c68429
+updated: 2017-02-28T13:31:17.330648643-05:00
+imports:
+- name: github.com/tncardoso/gocurses
+  version: 257af501b0ed94eaf8550c2080942c4dff5b2b81
+testImports: []
